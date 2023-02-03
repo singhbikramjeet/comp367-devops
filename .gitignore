@@ -1,4 +1,4 @@
 #ignore folders in myapp
-obj/
-Properties/
-appsettings.json
+**MyCoreApp/MyCoreApp/obj/
+**MyCoreApp/MyCoreApp/Prperties/
+**MyCoreApp/MyCoreApp/appsettings.json
