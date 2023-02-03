@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\singh\\source\\repos\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj": {}
+    "D:\\comp367\\comp367singh-Lab1\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\singh\\source\\repos\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj": {
+    "D:\\comp367\\comp367singh-Lab1\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\singh\\source\\repos\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
+        "projectUniqueName": "D:\\comp367\\comp367singh-Lab1\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
         "projectName": "MyCoreApp",
-        "projectPath": "C:\\Users\\singh\\source\\repos\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
+        "projectPath": "D:\\comp367\\comp367singh-Lab1\\MyCoreApp\\MyCoreApp\\MyCoreApp.csproj",
         "packagesPath": "C:\\Users\\singh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\singh\\source\\repos\\MyCoreApp\\MyCoreApp\\obj\\",
+        "outputPath": "D:\\comp367\\comp367singh-Lab1\\MyCoreApp\\MyCoreApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
